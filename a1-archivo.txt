@@ -3,4 +3,6 @@ Archivo de la actividad 1 Jassiel Alejandro Peralta Santos
 Parrafo #1 desde main
 Parrafo #2 desde main
 
+Parrafo #1 desde user1
+Parrafo #2 desde user1
 Parrafo #1 desde hotfix
